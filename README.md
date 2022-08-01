@@ -16,3 +16,6 @@ Just enter "python SlidePuzzle.py" in command prompt to execute the program
 
 Grid size = 3 * 3 <br>
 Long press "Solve" button to solve the question 
+
+
+我想放假
